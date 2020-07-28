@@ -12,7 +12,7 @@ devtools::install_github("DLCorcoran/DunedinPoAm45")
 
 #### Usage:
 ```r
-library("DunedinPoAm38")
+library("DunedinPoAm45")
 PoAmProjector(betas)
 ```
 
